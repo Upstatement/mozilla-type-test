@@ -7,14 +7,14 @@
 # sources/ directory, so all paths should be relative to that
 # directory.
 sources:
-  - sources/Mozilla Headline-Bold.ufo
-  - sources/Mozilla Headline-Bold Italic.ufo
-  - sources/Mozilla Headline-Condensed Bold.ufo
-  - sources/Mozilla Headline-Condensed ExtraLight.ufo
-  - sources/Mozilla Headline-Expanded Bold.ufo
-  - sources/Mozilla Headline-Expanded ExtraLight.ufo
-  - sources/Mozilla Headline-ExtraLight.ufo
-  - sources/Mozilla Headline-ExtraLight Italic.ufo
+  - Mozilla Headline-Bold.ufo
+  - Mozilla Headline-Bold Italic.ufo
+  - Mozilla Headline-Condensed Bold.ufo
+  - Mozilla Headline-Condensed ExtraLight.ufo
+  - Mozilla Headline-Expanded Bold.ufo
+  - Mozilla Headline-Expanded ExtraLight.ufo
+  - Mozilla Headline-ExtraLight.ufo
+  - Mozilla Headline-ExtraLight Italic.ufo
 # You don't have to supply the family name, but builds are slightly
 # faster if you do.
 familyName: "Mozilla Headline"
