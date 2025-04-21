@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="1">
+  <advance width="432"/>
+  <unicode hex="00BA"/>
+  <note>
+ordmasculine
+</note>
+  <outline>
+    <contour>
+      <point x="247" y="353" type="curve" smooth="yes"/>
+      <point x="347" y="353"/>
+      <point x="416" y="407"/>
+      <point x="434" y="514" type="curve" smooth="yes"/>
+      <point x="455" y="636"/>
+      <point x="385" y="696"/>
+      <point x="271" y="696" type="curve" smooth="yes"/>
+      <point x="171" y="696"/>
+      <point x="102" y="642"/>
+      <point x="84" y="535" type="curve" smooth="yes"/>
+      <point x="63" y="409"/>
+      <point x="138" y="353"/>
+    </contour>
+    <contour>
+      <point x="247" y="438" type="curve" smooth="yes"/>
+      <point x="208" y="438"/>
+      <point x="191" y="460"/>
+      <point x="198" y="505" type="curve" smooth="yes"/>
+      <point x="206" y="551" type="line" smooth="yes"/>
+      <point x="213" y="594"/>
+      <point x="231" y="612"/>
+      <point x="271" y="612" type="curve" smooth="yes"/>
+      <point x="310" y="612"/>
+      <point x="326" y="589"/>
+      <point x="319" y="544" type="curve" smooth="yes"/>
+      <point x="312" y="498" type="line" smooth="yes"/>
+      <point x="305" y="455"/>
+      <point x="286" y="438"/>
+    </contour>
+    <contour>
+      <point x="287" y="690" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>62</integer>
+        <key>verticalShift</key>
+        <integer>359</integer>
+        <key>weight</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>70</integer>
+      </dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 32 values pushed */
+93 1 93 5 82 7 82 11 4 106 15 101 21 2 15 83 9 2 21 83 3 6 12 42 64 0 1 0 18 42 0 6 
+MDAP[1]	/* MoveDirectAbsPt */
+SHP[1]	/* ShiftPointByLastPoint */
+MIRP[01101]	/* MoveIndirectRelPt */
+MDAP[1]	/* MoveDirectAbsPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */
+DELTAP1[ ]	/* DeltaExceptionP1 */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-11 12:12:13 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>superiors</string>
+          <key>R</key>
+          <string>superiors</string>
+        </dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>o</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

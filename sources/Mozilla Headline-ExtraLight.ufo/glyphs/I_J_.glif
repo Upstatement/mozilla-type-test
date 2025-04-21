@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJ" format="1">
+  <advance width="703"/>
+  <unicode hex="0132"/>
+  <outline>
+    <contour>
+      <point x="373" y="-10" type="curve" smooth="yes"/>
+      <point x="544" y="-10"/>
+      <point x="616" y="81"/>
+      <point x="616" y="282" type="curve" smooth="yes"/>
+      <point x="616" y="690" type="line"/>
+      <point x="552" y="690" type="line"/>
+      <point x="552" y="254" type="line" smooth="yes"/>
+      <point x="552" y="109"/>
+      <point x="505" y="47"/>
+      <point x="373" y="47" type="curve" smooth="yes"/>
+      <point x="249" y="47"/>
+      <point x="194" y="109"/>
+      <point x="194" y="249" type="curve" smooth="yes"/>
+      <point x="194" y="277" type="line"/>
+      <point x="131" y="277" type="line"/>
+      <point x="131" y="271" type="line" smooth="yes"/>
+      <point x="131" y="81"/>
+      <point x="210" y="-10"/>
+    </contour>
+    <contour>
+      <point x="44" y="333" type="line"/>
+      <point x="281" y="333" type="line"/>
+      <point x="281" y="384" type="line"/>
+      <point x="192" y="384" type="line"/>
+      <point x="192" y="637" type="line"/>
+      <point x="281" y="637" type="line"/>
+      <point x="281" y="690" type="line"/>
+      <point x="44" y="690" type="line"/>
+      <point x="44" y="637" type="line"/>
+      <point x="133" y="637" type="line"/>
+      <point x="133" y="384" type="line"/>
+      <point x="44" y="384" type="line"/>
+    </contour>
+    <contour>
+      <point x="378" y="637" type="line"/>
+      <point x="578" y="637" type="line"/>
+      <point x="578" y="690" type="line"/>
+      <point x="378" y="690" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

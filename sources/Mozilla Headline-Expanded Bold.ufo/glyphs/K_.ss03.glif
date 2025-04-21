@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K.ss03" format="1">
+  <advance width="742"/>
+  <outline>
+    <contour>
+      <point x="81" y="0" type="line"/>
+      <point x="243" y="0" type="line"/>
+      <point x="243" y="300" type="line"/>
+      <point x="320" y="300" type="line"/>
+      <point x="534" y="0" type="line"/>
+      <point x="731" y="0" type="line"/>
+      <point x="731" y="109" type="line"/>
+      <point x="654" y="109" type="line"/>
+      <point x="448" y="392" type="line"/>
+      <point x="447" y="329" type="line"/>
+      <point x="720" y="690" type="line"/>
+      <point x="530" y="690" type="line"/>
+      <point x="320" y="408" type="line"/>
+      <point x="243" y="408" type="line"/>
+      <point x="243" y="690" type="line"/>
+      <point x="81" y="690" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

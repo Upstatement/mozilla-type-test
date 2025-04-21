@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceleft" format="1">
+  <advance width="263"/>
+  <unicode hex="007B"/>
+  <outline>
+    <contour>
+      <point x="141" y="-92" type="curve" smooth="yes"/>
+      <point x="234" y="-92" type="line"/>
+      <point x="234" y="-43" type="line"/>
+      <point x="158" y="-43" type="line" smooth="yes"/>
+      <point x="144" y="-43"/>
+      <point x="137" y="-36"/>
+      <point x="137" y="-22" type="curve" smooth="yes"/>
+      <point x="137" y="5"/>
+      <point x="162" y="233"/>
+      <point x="162" y="279" type="curve" smooth="yes"/>
+      <point x="162" y="315"/>
+      <point x="149" y="333"/>
+      <point x="118" y="337" type="curve"/>
+      <point x="118" y="353" type="line"/>
+      <point x="149" y="357"/>
+      <point x="162" y="375"/>
+      <point x="162" y="411" type="curve" smooth="yes"/>
+      <point x="162" y="457"/>
+      <point x="137" y="685"/>
+      <point x="137" y="712" type="curve" smooth="yes"/>
+      <point x="137" y="726"/>
+      <point x="144" y="733"/>
+      <point x="158" y="733" type="curve" smooth="yes"/>
+      <point x="234" y="733" type="line"/>
+      <point x="234" y="782" type="line"/>
+      <point x="141" y="782" type="line" smooth="yes"/>
+      <point x="102" y="782"/>
+      <point x="81" y="762"/>
+      <point x="81" y="722" type="curve" smooth="yes"/>
+      <point x="81" y="677"/>
+      <point x="108" y="455"/>
+      <point x="108" y="409" type="curve" smooth="yes"/>
+      <point x="108" y="381"/>
+      <point x="99" y="369"/>
+      <point x="77" y="369" type="curve" smooth="yes"/>
+      <point x="21" y="369" type="line"/>
+      <point x="21" y="321" type="line"/>
+      <point x="77" y="321" type="line" smooth="yes"/>
+      <point x="99" y="321"/>
+      <point x="108" y="309"/>
+      <point x="108" y="281" type="curve" smooth="yes"/>
+      <point x="108" y="235"/>
+      <point x="81" y="13"/>
+      <point x="81" y="-32" type="curve" smooth="yes"/>
+      <point x="81" y="-72"/>
+      <point x="102" y="-92"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>R</key>
+          <string>parenthesis</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

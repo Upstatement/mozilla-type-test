@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twosuperior" format="1">
+  <advance width="367.87069"/>
+  <unicode hex="00B2"/>
+  <note>
+twosuperior
+</note>
+  <outline>
+    <contour>
+      <point x="29" y="446" type="curve" smooth="yes"/>
+      <point x="29" y="368" type="line"/>
+      <point x="334" y="368" type="line"/>
+      <point x="334" y="474" type="line"/>
+      <point x="249" y="474" type="line"/>
+      <point x="249" y="439" type="line"/>
+      <point x="82" y="439" type="line"/>
+      <point x="133" y="395" type="line"/>
+      <point x="133" y="446" type="line" smooth="yes"/>
+      <point x="133" y="475"/>
+      <point x="142" y="477"/>
+      <point x="168" y="484" type="curve" smooth="yes"/>
+      <point x="236" y="501" type="line" smooth="yes"/>
+      <point x="312" y="519"/>
+      <point x="339" y="548"/>
+      <point x="339" y="597" type="curve" smooth="yes"/>
+      <point x="339" y="599" type="line" smooth="yes"/>
+      <point x="339" y="661"/>
+      <point x="282" y="694"/>
+      <point x="185" y="694" type="curve" smooth="yes"/>
+      <point x="91" y="694"/>
+      <point x="40" y="659"/>
+      <point x="30" y="576" type="curve"/>
+      <point x="132" y="576" type="line"/>
+      <point x="132" y="583" type="line" smooth="yes"/>
+      <point x="132" y="607"/>
+      <point x="151" y="619"/>
+      <point x="185" y="619" type="curve" smooth="yes"/>
+      <point x="214" y="619"/>
+      <point x="234" y="612"/>
+      <point x="234" y="597" type="curve" smooth="yes"/>
+      <point x="234" y="595" type="line" smooth="yes"/>
+      <point x="234" y="577"/>
+      <point x="226" y="570"/>
+      <point x="200" y="564" type="curve" smooth="yes"/>
+      <point x="132" y="548" type="line" smooth="yes"/>
+      <point x="56" y="530"/>
+      <point x="29" y="503"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>10</integer>
+        <key>height</key>
+        <real>46.6</real>
+        <key>verticalShift</key>
+        <integer>368</integer>
+        <key>weight</key>
+        <integer>40</integer>
+        <key>width</key>
+        <integer>64</integer>
+      </dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 45 values pushed */
+36 21 37 24 54 21 53 24 76 16 94 16 109 16 101 24 102 25 125 16 117 24 11 15 15 11 82 19 2 2 28 82 1 14 0 0 28 2 8 42 22 16 22 16 2 
+MDAP[1]	/* MoveDirectAbsPt */
+SHP[1]	/* ShiftPointByLastPoint */
+SHP[1]	/* ShiftPointByLastPoint */
+MDAP[1]	/* MoveDirectAbsPt */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SHP[1]	/* ShiftPointByLastPoint */
+MDAP[1]	/* MoveDirectAbsPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+SHP[0]	/* ShiftPointByLastPoint */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SHP[1]	/* ShiftPointByLastPoint */
+MDAP[1]	/* MoveDirectAbsPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+DELTAP1[ ]	/* DeltaExceptionP1 */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>superiors</string>
+          <key>R</key>
+          <string>superiors</string>
+        </dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>two</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

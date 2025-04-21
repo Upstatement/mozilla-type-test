@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn.ss03" format="1">
+  <advance width="723"/>
+  <note>
+Thorn
+</note>
+  <outline>
+    <contour>
+      <point x="154" y="156" type="line"/>
+      <point x="452" y="156" type="line" smooth="yes"/>
+      <point x="579" y="156"/>
+      <point x="659" y="232"/>
+      <point x="659" y="352" type="curve" smooth="yes"/>
+      <point x="659" y="472"/>
+      <point x="579" y="548"/>
+      <point x="452" y="548" type="curve" smooth="yes"/>
+      <point x="154" y="548" type="line"/>
+      <point x="154" y="496" type="line"/>
+      <point x="446" y="496" type="line" smooth="yes"/>
+      <point x="540" y="496"/>
+      <point x="591" y="446"/>
+      <point x="591" y="353" type="curve" smooth="yes"/>
+      <point x="591" y="351" type="line" smooth="yes"/>
+      <point x="591" y="258"/>
+      <point x="540" y="208"/>
+      <point x="446" y="208" type="curve" smooth="yes"/>
+      <point x="154" y="208" type="line"/>
+    </contour>
+    <contour>
+      <point x="121" y="0" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="187" y="690" type="line"/>
+      <point x="121" y="690" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

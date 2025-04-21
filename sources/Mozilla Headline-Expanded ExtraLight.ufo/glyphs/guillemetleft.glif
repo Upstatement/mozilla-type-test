@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetleft" format="1">
+  <advance width="623"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="483" y="82" type="line"/>
+      <point x="557" y="82" type="line"/>
+      <point x="353" y="278" type="line"/>
+      <point x="353" y="290" type="line"/>
+      <point x="557" y="486" type="line"/>
+      <point x="483" y="486" type="line"/>
+      <point x="287" y="306" type="line"/>
+      <point x="287" y="262" type="line"/>
+    </contour>
+    <contour>
+      <point x="253" y="82" type="line"/>
+      <point x="327" y="82" type="line"/>
+      <point x="123" y="278" type="line"/>
+      <point x="123" y="290" type="line"/>
+      <point x="327" y="486" type="line"/>
+      <point x="253" y="486" type="line"/>
+      <point x="57" y="306" type="line"/>
+      <point x="57" y="262" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>quotes</string>
+          <key>R</key>
+          <string>quotes</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

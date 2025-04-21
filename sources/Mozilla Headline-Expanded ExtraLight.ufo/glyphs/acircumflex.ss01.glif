@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflex.ss01" format="1">
+  <advance width="723"/>
+  <note>
+acircumflex
+</note>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="circumflexcomb" xOffset="128"/>
+    <contour>
+      <point x="684" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="328" y="534" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:21:10 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

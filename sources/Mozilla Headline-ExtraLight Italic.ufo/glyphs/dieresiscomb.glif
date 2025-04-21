@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb" format="1">
+  <advance width="0"/>
+  <unicode hex="0308"/>
+  <outline>
+    <contour>
+      <point x="122" y="615" type="line"/>
+      <point x="202" y="615" type="line"/>
+      <point x="215" y="690" type="line"/>
+      <point x="134" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="315" y="615" type="line"/>
+      <point x="395" y="615" type="line"/>
+      <point x="408" y="690" type="line"/>
+      <point x="327" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="245" y="534" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-11 12:12:13 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>NoKerning</string>
+          <key>R</key>
+          <string>NoKerning</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

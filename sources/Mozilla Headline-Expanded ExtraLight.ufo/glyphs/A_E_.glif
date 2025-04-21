@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="1">
+  <advance width="1100"/>
+  <unicode hex="00C6"/>
+  <note>
+AE
+</note>
+  <outline>
+    <contour>
+      <point x="8" y="0" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="484" y="632" type="line"/>
+      <point x="508" y="632" type="line"/>
+      <point x="555" y="690" type="line"/>
+      <point x="446" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="172" y="187" type="line"/>
+      <point x="547" y="187" type="line"/>
+      <point x="547" y="239" type="line"/>
+      <point x="192" y="239" type="line"/>
+    </contour>
+    <contour>
+      <point x="299" y="636" type="line"/>
+      <point x="464" y="636" type="line"/>
+      <point x="464" y="690" type="line"/>
+      <point x="299" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="964" y="494" type="line"/>
+      <point x="1022" y="494" type="line"/>
+      <point x="1022" y="690" type="line"/>
+      <point x="508" y="690" type="line"/>
+      <point x="508" y="0" type="line"/>
+      <point x="1026" y="0" type="line"/>
+      <point x="1026" y="200" type="line"/>
+      <point x="968" y="200" type="line"/>
+      <point x="968" y="54" type="line"/>
+      <point x="574" y="54" type="line"/>
+      <point x="574" y="326" type="line"/>
+      <point x="910" y="326" type="line"/>
+      <point x="910" y="378" type="line"/>
+      <point x="574" y="378" type="line"/>
+      <point x="574" y="636" type="line"/>
+      <point x="964" y="636" type="line"/>
+    </contour>
+    <contour>
+      <point x="1026" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="766" y="690" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

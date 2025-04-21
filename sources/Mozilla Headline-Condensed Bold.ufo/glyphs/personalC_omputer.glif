@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="personalComputer" format="1">
+  <advance width="656"/>
+  <unicode hex="1F4BB"/>
+  <outline>
+    <contour>
+      <point x="424" y="0" type="line"/>
+      <point x="534" y="0" type="line"/>
+      <point x="654" y="690" type="line"/>
+      <point x="544" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="39" y="0" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="166" y="125" type="line"/>
+      <point x="39" y="125" type="line"/>
+    </contour>
+    <contour>
+      <point x="39" y="409" type="line"/>
+      <point x="166" y="409" type="line"/>
+      <point x="166" y="534" type="line"/>
+      <point x="39" y="534" type="line"/>
+    </contour>
+    <contour>
+      <point x="217" y="0" type="line"/>
+      <point x="327" y="0" type="line"/>
+      <point x="447" y="690" type="line"/>
+      <point x="337" y="690" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

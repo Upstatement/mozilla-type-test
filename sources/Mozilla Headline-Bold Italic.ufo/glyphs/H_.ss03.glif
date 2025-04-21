@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H.ss03" format="1">
+  <advance width="671"/>
+  <outline>
+    <contour>
+      <point x="410" y="0" type="line"/>
+      <point x="557" y="0" type="line"/>
+      <point x="673" y="690" type="line"/>
+      <point x="526" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="24" y="0" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="286" y="690" type="line"/>
+      <point x="140" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="166" y="301" type="line"/>
+      <point x="513" y="301" type="line"/>
+      <point x="530" y="403" type="line"/>
+      <point x="183" y="403" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-11 12:12:13 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>H.ss02</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

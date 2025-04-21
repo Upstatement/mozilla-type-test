@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater" format="1">
+  <advance width="474.58621"/>
+  <unicode hex="003E"/>
+  <outline>
+    <contour>
+      <point x="27" y="113" type="line"/>
+      <point x="452" y="259" type="line"/>
+      <point x="452" y="415" type="line"/>
+      <point x="27" y="561" type="line"/>
+      <point x="27" y="453" type="line"/>
+      <point x="341" y="353" type="line"/>
+      <point x="341" y="321" type="line"/>
+      <point x="27" y="221" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>math</string>
+          <key>R</key>
+          <string>math</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

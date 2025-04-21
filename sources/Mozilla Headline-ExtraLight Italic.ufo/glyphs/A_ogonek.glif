@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aogonek" format="1">
+  <advance width="632"/>
+  <unicode hex="0104"/>
+  <outline>
+    <contour>
+      <point x="-7" y="0" type="line"/>
+      <point x="62" y="0" type="line"/>
+      <point x="371" y="633" type="line"/>
+      <point x="393" y="633" type="line"/>
+      <point x="489" y="0" type="line"/>
+      <point x="554" y="0" type="line"/>
+      <point x="447" y="690" type="line"/>
+      <point x="332" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="123" y="188" type="line"/>
+      <point x="487" y="188" type="line"/>
+      <point x="481" y="238" type="line"/>
+      <point x="145" y="238" type="line"/>
+    </contour>
+    <contour>
+      <point x="214" y="637" type="line"/>
+      <point x="349" y="637" type="line"/>
+      <point x="358" y="690" type="line"/>
+      <point x="223" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="452" y="-143" type="curve" smooth="yes"/>
+      <point x="537" y="-143" type="line"/>
+      <point x="544" y="-100" type="line"/>
+      <point x="462" y="-100" type="line" smooth="yes"/>
+      <point x="441" y="-100"/>
+      <point x="432" y="-92"/>
+      <point x="435" y="-75" type="curve" smooth="yes"/>
+      <point x="439" y="-53"/>
+      <point x="466" y="-34"/>
+      <point x="554" y="0" type="curve"/>
+      <point x="492" y="19" type="line"/>
+      <point x="487" y="-11" type="line"/>
+      <point x="419" y="-29"/>
+      <point x="393" y="-45"/>
+      <point x="387" y="-83" type="curve" smooth="yes"/>
+      <point x="382" y="-119"/>
+      <point x="404" y="-143"/>
+    </contour>
+    <contour>
+      <point x="554" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="386" y="690" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-11 12:12:13 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

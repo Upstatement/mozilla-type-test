@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onethird" format="1">
+  <advance width="866"/>
+  <unicode hex="2153"/>
+  <outline>
+    <component base="onesuperior"/>
+    <component base="fraction" xOffset="394"/>
+    <component base="threeinferior" xOffset="434"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

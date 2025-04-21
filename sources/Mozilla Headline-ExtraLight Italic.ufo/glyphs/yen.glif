@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen" format="1">
+  <advance width="616"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="231" y="0" type="line"/>
+      <point x="295" y="0" type="line"/>
+      <point x="344" y="290" type="line"/>
+      <point x="660" y="690" type="line"/>
+      <point x="588" y="690" type="line"/>
+      <point x="334" y="369" type="line"/>
+      <point x="312" y="369" type="line"/>
+      <point x="166" y="690" type="line"/>
+      <point x="98" y="690" type="line"/>
+      <point x="280" y="290" type="line"/>
+    </contour>
+    <contour>
+      <point x="91" y="172" type="line"/>
+      <point x="493" y="172" type="line"/>
+      <point x="501" y="221" type="line"/>
+      <point x="99" y="221" type="line"/>
+    </contour>
+    <contour>
+      <point x="111" y="290" type="line"/>
+      <point x="513" y="290" type="line"/>
+      <point x="521" y="339" type="line"/>
+      <point x="119" y="339" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-11 12:12:13 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>symbols</string>
+          <key>R</key>
+          <string>symbols</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

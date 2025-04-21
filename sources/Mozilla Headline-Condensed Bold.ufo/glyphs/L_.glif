@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L" format="1">
+  <advance width="407"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="54" y="0" type="line"/>
+      <point x="387" y="0" type="line"/>
+      <point x="387" y="211" type="line"/>
+      <point x="284" y="211" type="line"/>
+      <point x="284" y="98" type="line"/>
+      <point x="175" y="98" type="line"/>
+      <point x="175" y="592" type="line"/>
+      <point x="216" y="592" type="line"/>
+      <point x="216" y="690" type="line"/>
+      <point x="13" y="690" type="line"/>
+      <point x="13" y="592" type="line"/>
+      <point x="54" y="592" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>L</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

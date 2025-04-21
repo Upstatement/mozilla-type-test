@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J" format="1">
+  <advance width="589"/>
+  <unicode hex="004A"/>
+  <outline>
+    <contour>
+      <point x="242" y="-10" type="curve" smooth="yes"/>
+      <point x="384" y="-10"/>
+      <point x="462" y="70"/>
+      <point x="494" y="261" type="curve" smooth="yes"/>
+      <point x="566" y="690" type="line"/>
+      <point x="243" y="690" type="line"/>
+      <point x="234" y="637" type="line"/>
+      <point x="494" y="637" type="line"/>
+      <point x="427" y="244" type="line" smooth="yes"/>
+      <point x="403" y="101"/>
+      <point x="359" y="47"/>
+      <point x="241" y="47" type="curve" smooth="yes"/>
+      <point x="123" y="47"/>
+      <point x="76" y="107"/>
+      <point x="99" y="248" type="curve" smooth="yes"/>
+      <point x="106" y="285" type="line"/>
+      <point x="42" y="285" type="line"/>
+      <point x="41" y="277" type="line" smooth="yes"/>
+      <point x="6" y="65"/>
+      <point x="90" y="-10"/>
+    </contour>
+    <contour>
+      <point x="420" y="690" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-11 12:12:13 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>J</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash" format="1">
+  <advance width="428"/>
+  <unicode hex="00F8"/>
+  <note>
+oslash
+</note>
+  <outline>
+    <contour>
+      <point x="214" y="-10" type="curve" smooth="yes"/>
+      <point x="330" y="-10"/>
+      <point x="384" y="73"/>
+      <point x="384" y="267" type="curve" smooth="yes"/>
+      <point x="384" y="461"/>
+      <point x="330" y="544"/>
+      <point x="214" y="544" type="curve" smooth="yes"/>
+      <point x="98" y="544"/>
+      <point x="44" y="461"/>
+      <point x="44" y="267" type="curve" smooth="yes"/>
+      <point x="44" y="73"/>
+      <point x="98" y="-10"/>
+    </contour>
+    <contour>
+      <point x="214" y="43" type="curve" smooth="yes"/>
+      <point x="138" y="43"/>
+      <point x="106" y="90"/>
+      <point x="106" y="217" type="curve" smooth="yes"/>
+      <point x="106" y="317" type="line" smooth="yes"/>
+      <point x="106" y="441"/>
+      <point x="138" y="491"/>
+      <point x="214" y="491" type="curve" smooth="yes"/>
+      <point x="290" y="491"/>
+      <point x="322" y="444"/>
+      <point x="322" y="317" type="curve" smooth="yes"/>
+      <point x="322" y="217" type="line" smooth="yes"/>
+      <point x="322" y="93"/>
+      <point x="290" y="43"/>
+    </contour>
+    <contour>
+      <point x="39" y="-10" type="line"/>
+      <point x="90" y="-10" type="line"/>
+      <point x="123" y="49" type="line"/>
+      <point x="125" y="49" type="line"/>
+      <point x="331" y="440" type="line"/>
+      <point x="333" y="440" type="line"/>
+      <point x="389" y="544" type="line"/>
+      <point x="339" y="544" type="line"/>
+      <point x="305" y="485" type="line"/>
+      <point x="303" y="485" type="line"/>
+      <point x="97" y="94" type="line"/>
+      <point x="95" y="94" type="line"/>
+    </contour>
+    <contour>
+      <point x="214" y="534" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 63 values pushed */
+0 8 15 20 10 25 41 38 4 0 24 0 37 2 0 24 0 37 2 9 20 0 24 0 37 61 29 50 43 77 29 66 43 7 6 2 33 38 24 37 4 41 27 62 6 9 18 21 4 3 15 4 41 62 3 10 33 38 24 37 4 30 34 
+PUSHW[ ]	/* 1 value pushed */
+-8 
+PUSHB[ ]	/* 5 values pushed */
+9 9 2 85 34 
+PUSHW[ ]	/* 1 value pushed */
+-12 
+NPUSHB[ ]	/* 20 values pushed */
+12 12 2 85 34 27 0 9 6 18 21 4 12 45 64 12 12 2 85 0 
+PUSHW[ ]	/* 1 value pushed */
+-4 
+PUSHB[ ]	/* 5 values pushed */
+11 11 2 85 0 
+PUSHW[ ]	/* 1 value pushed */
+-32 
+NPUSHB[ ]	/* 63 values pushed */
+16 16 2 85 0 24 12 12 2 85 0 144 45 15 45 31 45 63 45 111 45 4 30 4 9 9 2 85 30 12 12 12 2 85 30 27 12 22 11 11 2 85 12 24 9 9 2 85 12 8 12 12 2 85 12 4 13 13 2 85 12 133 44 
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[10110]	/* MoveIndirectRelPt */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+MIRP[01101]	/* MoveIndirectRelPt */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[00100]	/* MoveIndirectRelPt */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIAP[1]	/* MoveIndirectAbsPt */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+MIRP[11101]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+RS[ ]	/* ReadStore */
+EQ[ ]	/* Equal */
+IF[ ]	/* If */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+12 
+LTEQ[ ]	/* LessThenOrEqual */
+IF[ ]	/* If */
+PUSHB[ ]	/* 6 values pushed */
+8 19 57 19 2 19 
+MDAP[0]	/* MoveDirectAbsPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+DELTAP1[ ]	/* DeltaExceptionP1 */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

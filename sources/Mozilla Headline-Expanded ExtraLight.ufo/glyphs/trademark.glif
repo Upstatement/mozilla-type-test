@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="trademark" format="1">
+  <advance width="1030"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="202" y="304" type="line"/>
+      <point x="262" y="304" type="line"/>
+      <point x="262" y="646" type="line"/>
+      <point x="361" y="646" type="line"/>
+      <point x="361" y="566" type="line"/>
+      <point x="412" y="566" type="line"/>
+      <point x="412" y="690" type="line"/>
+      <point x="52" y="690" type="line"/>
+      <point x="52" y="566" type="line"/>
+      <point x="103" y="566" type="line"/>
+      <point x="103" y="646" type="line"/>
+      <point x="202" y="646" type="line"/>
+    </contour>
+    <contour>
+      <point x="478" y="304" type="line"/>
+      <point x="537" y="304" type="line"/>
+      <point x="537" y="641" type="line"/>
+      <point x="554" y="641" type="line"/>
+      <point x="681" y="304" type="line"/>
+      <point x="736" y="304" type="line"/>
+      <point x="863" y="641" type="line"/>
+      <point x="880" y="641" type="line"/>
+      <point x="880" y="304" type="line"/>
+      <point x="940" y="304" type="line"/>
+      <point x="940" y="690" type="line"/>
+      <point x="827" y="690" type="line"/>
+      <point x="717" y="400" type="line"/>
+      <point x="701" y="400" type="line"/>
+      <point x="591" y="690" type="line"/>
+      <point x="478" y="690" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>56</integer>
+        <key>verticalShift</key>
+        <integer>304</integer>
+        <key>weight</key>
+        <integer>20</integer>
+        <key>width</key>
+        <integer>56</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>superiors</string>
+        </dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>_trademark</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

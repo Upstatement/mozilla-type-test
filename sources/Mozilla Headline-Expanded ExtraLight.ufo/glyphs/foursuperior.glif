@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="foursuperior" format="1">
+  <advance width="404"/>
+  <unicode hex="2074"/>
+  <note>
+uniF009
+</note>
+  <outline>
+    <contour>
+      <point x="34" y="445" type="line"/>
+      <point x="374" y="445" type="line"/>
+      <point x="374" y="485" type="line"/>
+      <point x="98" y="485" type="line"/>
+      <point x="222" y="690" type="line"/>
+      <point x="158" y="690" type="line"/>
+      <point x="34" y="485" type="line"/>
+    </contour>
+    <contour>
+      <point x="237" y="368" type="line"/>
+      <point x="297" y="368" type="line"/>
+      <point x="297" y="569" type="line"/>
+      <point x="257" y="569" type="line"/>
+      <point x="237" y="516" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>20</integer>
+        <key>height</key>
+        <real>46.6</real>
+        <key>verticalShift</key>
+        <integer>368</integer>
+        <key>weight</key>
+        <integer>40</integer>
+        <key>width</key>
+        <integer>56</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>foursuperior</string>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>superiors</string>
+          <key>R</key>
+          <string>superiors</string>
+        </dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>four</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

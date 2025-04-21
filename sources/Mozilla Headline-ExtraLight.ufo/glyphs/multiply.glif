@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="multiply" format="1">
+  <advance width="474.58621"/>
+  <unicode hex="00D7"/>
+  <outline>
+    <contour>
+      <point x="100" y="164" type="line"/>
+      <point x="410" y="474" type="line"/>
+      <point x="374" y="510" type="line"/>
+      <point x="64" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="374" y="164" type="line"/>
+      <point x="410" y="201" type="line"/>
+      <point x="101" y="510" type="line"/>
+      <point x="65" y="473" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>math</string>
+          <key>R</key>
+          <string>math</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

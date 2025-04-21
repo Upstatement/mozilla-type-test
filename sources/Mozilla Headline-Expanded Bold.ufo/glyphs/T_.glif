@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T" format="1">
+  <advance width="702"/>
+  <unicode hex="0054"/>
+  <outline>
+    <contour>
+      <point x="270" y="0" type="line"/>
+      <point x="432" y="0" type="line"/>
+      <point x="432" y="578" type="line"/>
+      <point x="538" y="578" type="line"/>
+      <point x="538" y="483" type="line"/>
+      <point x="672" y="483" type="line"/>
+      <point x="672" y="690" type="line"/>
+      <point x="30" y="690" type="line"/>
+      <point x="30" y="483" type="line"/>
+      <point x="164" y="483" type="line"/>
+      <point x="164" y="578" type="line"/>
+      <point x="270" y="578" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>T</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

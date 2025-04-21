@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordfeminine" format="1">
+  <advance width="438"/>
+  <unicode hex="00AA"/>
+  <note>
+ordfeminine
+</note>
+  <outline>
+    <contour>
+      <point x="167" y="353" type="curve" smooth="yes"/>
+      <point x="220" y="353"/>
+      <point x="248" y="376"/>
+      <point x="265" y="427" type="curve"/>
+      <point x="290" y="427" type="line"/>
+      <point x="289" y="420" type="line" smooth="yes"/>
+      <point x="283" y="384"/>
+      <point x="303" y="359"/>
+      <point x="349" y="359" type="curve" smooth="yes"/>
+      <point x="410" y="359" type="line"/>
+      <point x="424" y="438" type="line"/>
+      <point x="391" y="438" type="line"/>
+      <point x="413" y="566" type="line" smooth="yes"/>
+      <point x="426" y="649"/>
+      <point x="375" y="696"/>
+      <point x="274" y="696" type="curve" smooth="yes"/>
+      <point x="182" y="696"/>
+      <point x="124" y="663"/>
+      <point x="101" y="581" type="curve"/>
+      <point x="213" y="581" type="line"/>
+      <point x="214" y="585" type="line" smooth="yes"/>
+      <point x="217" y="605"/>
+      <point x="233" y="616"/>
+      <point x="260" y="616" type="curve" smooth="yes"/>
+      <point x="291" y="616"/>
+      <point x="304" y="600"/>
+      <point x="298" y="565" type="curve" smooth="yes"/>
+      <point x="292" y="530" type="line"/>
+      <point x="291" y="521" type="line"/>
+      <point x="282" y="471" type="line" smooth="yes"/>
+      <point x="278" y="445"/>
+      <point x="262" y="434"/>
+      <point x="230" y="434" type="curve" smooth="yes"/>
+      <point x="203" y="434"/>
+      <point x="188" y="446"/>
+      <point x="191" y="463" type="curve" smooth="yes"/>
+      <point x="192" y="471" type="line" smooth="yes"/>
+      <point x="195" y="486"/>
+      <point x="206" y="495"/>
+      <point x="231" y="497" type="curve" smooth="yes"/>
+      <point x="288" y="499" type="line"/>
+      <point x="297" y="554" type="line"/>
+      <point x="212" y="551" type="line" smooth="yes"/>
+      <point x="125" y="547"/>
+      <point x="83" y="519"/>
+      <point x="73" y="458" type="curve" smooth="yes"/>
+      <point x="64" y="398"/>
+      <point x="102" y="353"/>
+    </contour>
+    <contour>
+      <point x="281" y="690" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>62</integer>
+        <key>verticalShift</key>
+        <integer>359</integer>
+        <key>weight</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>70</integer>
+      </dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 55 values pushed */
+10 10 6 33 27 9 22 33 46 9 37 33 85 41 96 14 96 41 112 14 112 41 11 2 8 37 82 17 17 32 8 28 28 24 83 32 2 1 1 46 83 8 6 29 17 37 2 42 29 11 0 43 42 0 11 
+MDAP[1]	/* MoveDirectAbsPt */
+SHP[1]	/* ShiftPointByLastPoint */
+MIRP[01101]	/* MoveIndirectRelPt */
+MDAP[1]	/* MoveDirectAbsPt */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+MIRP[11101]	/* MoveIndirectRelPt */
+SHP[0]	/* ShiftPointByLastPoint */
+SHP[0]	/* ShiftPointByLastPoint */
+MDAP[1]	/* MoveDirectAbsPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SHP[1]	/* ShiftPointByLastPoint */
+MDAP[1]	/* MoveDirectAbsPt */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+SHP[0]	/* ShiftPointByLastPoint */
+MDAP[1]	/* MoveDirectAbsPt */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+DELTAP1[ ]	/* DeltaExceptionP1 */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-11 12:12:13 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>superiors</string>
+          <key>R</key>
+          <string>superiors</string>
+        </dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>a</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

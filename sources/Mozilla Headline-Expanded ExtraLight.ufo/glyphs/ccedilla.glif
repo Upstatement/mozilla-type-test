@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ccedilla" format="1">
+  <advance width="660"/>
+  <unicode hex="00E7"/>
+  <note>
+ccedilla
+</note>
+  <outline>
+    <component base="c"/>
+    <component base="cedillacomb" xOffset="135"/>
+    <contour>
+      <point x="335" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="335" y="534" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:21:10 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

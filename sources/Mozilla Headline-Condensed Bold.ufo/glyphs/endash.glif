@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="endash" format="1">
+  <advance width="416"/>
+  <unicode hex="2013"/>
+  <outline>
+    <contour>
+      <point x="41" y="237" type="line"/>
+      <point x="375" y="237" type="line"/>
+      <point x="375" y="331" type="line"/>
+      <point x="41" y="331" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 15:37:42 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>endash</string>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>dashes</string>
+          <key>R</key>
+          <string>dashes</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

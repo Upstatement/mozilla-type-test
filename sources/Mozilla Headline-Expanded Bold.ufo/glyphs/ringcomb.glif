@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb" format="1">
+  <advance width="0"/>
+  <unicode hex="030A"/>
+  <note>
+ring
+</note>
+  <outline>
+    <contour>
+      <point x="200" y="566" type="curve" smooth="yes"/>
+      <point x="272" y="566"/>
+      <point x="320" y="608"/>
+      <point x="320" y="670" type="curve" smooth="yes"/>
+      <point x="320" y="732"/>
+      <point x="272" y="774"/>
+      <point x="200" y="774" type="curve" smooth="yes"/>
+      <point x="128" y="774"/>
+      <point x="80" y="732"/>
+      <point x="80" y="670" type="curve" smooth="yes"/>
+      <point x="80" y="608"/>
+      <point x="128" y="566"/>
+    </contour>
+    <contour>
+      <point x="200" y="628" type="curve" smooth="yes"/>
+      <point x="174" y="628"/>
+      <point x="160" y="642"/>
+      <point x="160" y="669" type="curve" smooth="yes"/>
+      <point x="160" y="671" type="line" smooth="yes"/>
+      <point x="160" y="698"/>
+      <point x="174" y="712"/>
+      <point x="200" y="712" type="curve" smooth="yes"/>
+      <point x="226" y="712"/>
+      <point x="240" y="698"/>
+      <point x="240" y="671" type="curve" smooth="yes"/>
+      <point x="240" y="669" type="line" smooth="yes"/>
+      <point x="240" y="642"/>
+      <point x="226" y="628"/>
+    </contour>
+    <contour>
+      <point x="200" y="534" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>NoKerning</string>
+          <key>R</key>
+          <string>NoKerning</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

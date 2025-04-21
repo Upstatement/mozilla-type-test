@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aring.ss03" format="1">
+  <advance width="434"/>
+  <note>
+Aring
+</note>
+  <outline>
+    <component base="A.ss03"/>
+    <component base="ringcomb.case" xOffset="16" yOffset="40"/>
+    <contour>
+      <point x="406" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="216" y="690" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 68 values pushed */
+43 32 64 32 90 24 85 26 80 30 85 32 105 24 101 26 101 30 9 24 11 23 13 74 6 70 18 89 6 86 18 120 2 119 3 8 32 32 33 31 2 135 1 1 1 20 0 18 0 32 33 3 135 4 1 4 20 5 5 6 123 6 116 18 2 22 81 12 
+PUSHW[ ]	/* 1 value pushed */
+-64 
+NPUSHB[ ]	/* 111 values pushed */
+13 16 55 12 3 52 33 64 16 16 2 85 33 64 13 13 2 85 33 64 9 9 2 85 112 33 1 33 33 32 6 18 4 5 0 28 1 28 3 1 5 8 19 17 79 15 80 15 96 15 3 15 25 17 64 9 95 9 111 9 3 9 15 35 1 6 9 15 18 4 5 12 0 36 0 57 0 66 0 90 0 106 0 116 0 7 0 0 110 35 15 35 1 10 5 43 5 54 5 77 5 85 5 101 5 123 5 7 5 100 34 
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[00110]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[10110]	/* MoveIndirectRelPt */
+MDAP[1]	/* MoveDirectAbsPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+MDAP[1]	/* MoveDirectAbsPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+MIRP[01101]	/* MoveIndirectRelPt */
+MDAP[1]	/* MoveDirectAbsPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+MIAP[1]	/* MoveIndirectAbsPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+MIRP[01101]	/* MoveIndirectRelPt */
+MDAP[1]	/* MoveDirectAbsPt */
+CALL[ ]	/* CallFunction */
+MIRP[01101]	/* MoveIndirectRelPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+SDPVTL[1]	/* SetDualPVectorToLine */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[11101]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+MDRP[00000]	/* MoveDirectRelPt */
+MDRP[00000]	/* MoveDirectRelPt */
+MDRP[00000]	/* MoveDirectRelPt */
+SDPVTL[1]	/* SetDualPVectorToLine */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[11101]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+MDRP[00000]	/* MoveDirectRelPt */
+MDRP[00000]	/* MoveDirectRelPt */
+SFVTL[0]	/* SetFVectorToLine */
+MDRP[00000]	/* MoveDirectRelPt */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+DELTAP1[ ]	/* DeltaExceptionP1 */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

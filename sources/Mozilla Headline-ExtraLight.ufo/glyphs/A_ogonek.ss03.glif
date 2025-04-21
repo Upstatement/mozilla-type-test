@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aogonek.ss03" format="1">
+  <advance width="624.96552"/>
+  <outline>
+    <contour>
+      <point x="32" y="0" type="line"/>
+      <point x="98" y="0" type="line"/>
+      <point x="301" y="633" type="line"/>
+      <point x="322" y="633" type="line"/>
+      <point x="525" y="0" type="line"/>
+      <point x="593" y="0" type="line"/>
+      <point x="370" y="690" type="line"/>
+      <point x="255" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="126" y="188" type="line"/>
+      <point x="499" y="188" type="line"/>
+      <point x="485" y="238" type="line"/>
+      <point x="140" y="238" type="line"/>
+    </contour>
+    <contour>
+      <point x="511" y="-143" type="curve" smooth="yes"/>
+      <point x="600" y="-143" type="line"/>
+      <point x="600" y="-101" type="line"/>
+      <point x="518" y="-101" type="line" smooth="yes"/>
+      <point x="497" y="-101"/>
+      <point x="486" y="-92"/>
+      <point x="486" y="-75" type="curve" smooth="yes"/>
+      <point x="486" y="-53"/>
+      <point x="511" y="-34"/>
+      <point x="593" y="0" type="curve"/>
+      <point x="527" y="12" type="line"/>
+      <point x="527" y="-11" type="line"/>
+      <point x="462" y="-29"/>
+      <point x="440" y="-49"/>
+      <point x="440" y="-87" type="curve" smooth="yes"/>
+      <point x="440" y="-123"/>
+      <point x="465" y="-143"/>
+    </contour>
+    <contour>
+      <point x="593" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="311" y="690" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

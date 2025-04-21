@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k" format="1">
+  <advance width="424"/>
+  <unicode hex="006B"/>
+  <outline>
+    <contour>
+      <point x="42" y="0" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="160" y="231" type="line"/>
+      <point x="199" y="231" type="line"/>
+      <point x="290" y="0" type="line"/>
+      <point x="415" y="0" type="line"/>
+      <point x="415" y="94" type="line"/>
+      <point x="380" y="94" type="line"/>
+      <point x="290" y="309" type="line"/>
+      <point x="286" y="256" type="line"/>
+      <point x="413" y="534" type="line"/>
+      <point x="289" y="534" type="line"/>
+      <point x="199" y="321" type="line"/>
+      <point x="160" y="321" type="line"/>
+      <point x="160" y="690" type="line"/>
+      <point x="7" y="690" type="line"/>
+      <point x="7" y="596" type="line"/>
+      <point x="42" y="596" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>k</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L.ss03" format="1">
+  <advance width="568"/>
+  <outline>
+    <contour>
+      <point x="55" y="0" type="line"/>
+      <point x="476" y="0" type="line"/>
+      <point x="510" y="200" type="line"/>
+      <point x="454" y="200" type="line"/>
+      <point x="429" y="53" type="line"/>
+      <point x="128" y="53" type="line"/>
+      <point x="235" y="690" type="line"/>
+      <point x="171" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="690" type="line"/>
+      <point x="201" y="637" type="line"/>
+      <point x="317" y="637" type="line"/>
+      <point x="326" y="690" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-11 12:12:13 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

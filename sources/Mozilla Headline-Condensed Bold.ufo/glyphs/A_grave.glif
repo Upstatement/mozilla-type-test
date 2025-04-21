@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Agrave" format="1">
+  <advance width="438"/>
+  <unicode hex="00C0"/>
+  <note>
+Agrave
+</note>
+  <outline>
+    <component base="A"/>
+    <component base="gravecomb.case" xOffset="17" yOffset="40"/>
+    <contour>
+      <point x="424" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="217" y="690" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

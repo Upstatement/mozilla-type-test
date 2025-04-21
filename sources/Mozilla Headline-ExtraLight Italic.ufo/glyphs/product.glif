@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="product" format="1">
+  <advance width="732"/>
+  <unicode hex="220F"/>
+  <outline>
+    <contour>
+      <point x="486" y="0" type="line"/>
+      <point x="549" y="0" type="line"/>
+      <point x="656" y="637" type="line"/>
+      <point x="764" y="637" type="line"/>
+      <point x="773" y="690" type="line"/>
+      <point x="102" y="690" type="line"/>
+      <point x="93" y="637" type="line"/>
+      <point x="200" y="637" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="264" y="637" type="line"/>
+      <point x="593" y="637" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-11 12:12:13 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

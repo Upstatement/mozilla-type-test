@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamdown.case" format="1">
+  <advance width="261"/>
+  <outline>
+    <contour>
+      <point x="211" y="499" type="line"/>
+      <point x="128" y="499" type="line"/>
+      <point x="26" y="107" type="line"/>
+      <point x="9" y="0" type="line"/>
+      <point x="163" y="0" type="line"/>
+      <point x="181" y="107" type="line"/>
+    </contour>
+    <contour>
+      <point x="278" y="690" type="line"/>
+      <point x="125" y="690" type="line"/>
+      <point x="101" y="543" type="line"/>
+      <point x="253" y="543" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-11 12:12:13 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>R</key>
+          <string>spaced-off</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

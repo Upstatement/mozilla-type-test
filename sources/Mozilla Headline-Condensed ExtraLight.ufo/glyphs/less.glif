@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less" format="1">
+  <advance width="384"/>
+  <unicode hex="003C"/>
+  <outline>
+    <contour>
+      <point x="346" y="508" type="line"/>
+      <point x="28" y="372" type="line"/>
+      <point x="28" y="302" type="line"/>
+      <point x="346" y="166" type="line"/>
+      <point x="346" y="219" type="line"/>
+      <point x="82" y="328" type="line"/>
+      <point x="82" y="346" type="line"/>
+      <point x="346" y="455" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>math</string>
+          <key>R</key>
+          <string>math</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

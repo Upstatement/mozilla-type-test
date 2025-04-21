@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uacute" format="1">
+  <advance width="443"/>
+  <unicode hex="00FA"/>
+  <note>
+uacute
+</note>
+  <outline>
+    <component base="u"/>
+    <component base="acutecomb" xOffset="20"/>
+    <contour>
+      <point x="220" y="534" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:21:10 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

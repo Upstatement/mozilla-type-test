@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slash" format="1">
+  <advance width="379"/>
+  <unicode hex="002F"/>
+  <outline>
+    <contour>
+      <point x="-43" y="-92" type="line"/>
+      <point x="96" y="-92" type="line"/>
+      <point x="447" y="782" type="line"/>
+      <point x="309" y="782" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-11 12:12:13 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>slash</string>
+          <key>R</key>
+          <string>slash</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk" format="1">
+  <advance width="369"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="18" y="534" type="line"/>
+      <point x="79" y="514" type="line"/>
+      <point x="156" y="525" type="line"/>
+      <point x="158" y="518" type="line"/>
+      <point x="89" y="484" type="line"/>
+      <point x="51" y="432" type="line"/>
+      <point x="131" y="374" type="line"/>
+      <point x="168" y="426" type="line"/>
+      <point x="180" y="502" type="line"/>
+      <point x="188" y="502" type="line"/>
+      <point x="200" y="426" type="line"/>
+      <point x="237" y="374" type="line"/>
+      <point x="317" y="432" type="line"/>
+      <point x="279" y="484" type="line"/>
+      <point x="208" y="518" type="line"/>
+      <point x="210" y="525" type="line"/>
+      <point x="289" y="514" type="line"/>
+      <point x="350" y="534" type="line"/>
+      <point x="320" y="627" type="line"/>
+      <point x="259" y="607" type="line"/>
+      <point x="203" y="549" type="line"/>
+      <point x="197" y="553" type="line"/>
+      <point x="233" y="626" type="line"/>
+      <point x="233" y="690" type="line"/>
+      <point x="135" y="690" type="line"/>
+      <point x="135" y="626" type="line"/>
+      <point x="171" y="553" type="line"/>
+      <point x="165" y="549" type="line"/>
+      <point x="109" y="608" type="line"/>
+      <point x="48" y="627" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>quotes</string>
+          <key>R</key>
+          <string>quotes</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

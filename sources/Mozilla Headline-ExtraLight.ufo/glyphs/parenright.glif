@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright" format="1">
+  <advance width="305.83621"/>
+  <unicode hex="0029"/>
+  <outline>
+    <contour>
+      <point x="84" y="782" type="curve"/>
+      <point x="20" y="782" type="line"/>
+      <point x="142" y="645"/>
+      <point x="184" y="538"/>
+      <point x="184" y="371" type="curve" smooth="yes"/>
+      <point x="184" y="319" type="line" smooth="yes"/>
+      <point x="184" y="152"/>
+      <point x="142" y="45"/>
+      <point x="20" y="-92" type="curve"/>
+      <point x="84" y="-92" type="line"/>
+      <point x="197" y="22"/>
+      <point x="246" y="154"/>
+      <point x="246" y="345" type="curve" smooth="yes"/>
+      <point x="246" y="536"/>
+      <point x="197" y="668"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>parenthesis</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

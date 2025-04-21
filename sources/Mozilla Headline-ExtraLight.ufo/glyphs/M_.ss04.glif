@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M.ss04" format="1">
+  <advance width="899.24138"/>
+  <outline>
+    <contour>
+      <point x="109" y="0" type="line"/>
+      <point x="171" y="0" type="line"/>
+      <point x="171" y="633" type="line"/>
+      <point x="192" y="633" type="line"/>
+      <point x="425" y="0" type="line"/>
+      <point x="481" y="0" type="line"/>
+      <point x="713" y="633" type="line"/>
+      <point x="735" y="633" type="line"/>
+      <point x="735" y="0" type="line"/>
+      <point x="798" y="0" type="line"/>
+      <point x="798" y="690" type="line"/>
+      <point x="673" y="690" type="line"/>
+      <point x="465" y="129" type="line"/>
+      <point x="443" y="129" type="line"/>
+      <point x="234" y="690" type="line"/>
+      <point x="109" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="131" y="637" type="line"/>
+      <point x="131" y="690" type="line"/>
+      <point x="18" y="690" type="line"/>
+      <point x="18" y="637" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

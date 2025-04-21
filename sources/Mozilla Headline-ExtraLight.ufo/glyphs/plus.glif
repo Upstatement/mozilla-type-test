@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plus" format="1">
+  <advance width="474.58621"/>
+  <unicode hex="002B"/>
+  <outline>
+    <contour>
+      <point x="210" y="135" type="line"/>
+      <point x="264" y="135" type="line"/>
+      <point x="264" y="539" type="line"/>
+      <point x="210" y="539" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="312" type="line"/>
+      <point x="434" y="312" type="line"/>
+      <point x="434" y="362" type="line"/>
+      <point x="40" y="362" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>plus</string>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>math</string>
+          <key>R</key>
+          <string>math</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

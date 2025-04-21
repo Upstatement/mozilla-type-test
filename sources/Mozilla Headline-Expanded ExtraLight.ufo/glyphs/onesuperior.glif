@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onesuperior" format="1">
+  <advance width="394"/>
+  <unicode hex="00B9"/>
+  <note>
+onesuperior
+</note>
+  <outline>
+    <contour>
+      <point x="76" y="368" type="line"/>
+      <point x="338" y="368" type="line"/>
+      <point x="338" y="410" type="line"/>
+      <point x="237" y="410" type="line"/>
+      <point x="237" y="690" type="line"/>
+      <point x="197" y="690" type="line"/>
+      <point x="78" y="639" type="line"/>
+      <point x="78" y="596" type="line"/>
+      <point x="177" y="637" type="line"/>
+      <point x="177" y="410" type="line"/>
+      <point x="76" y="410" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>20</integer>
+        <key>height</key>
+        <real>46.6</real>
+        <key>verticalShift</key>
+        <integer>368</integer>
+        <key>weight</key>
+        <integer>18</integer>
+        <key>width</key>
+        <integer>56</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>superiors</string>
+          <key>R</key>
+          <string>superiors</string>
+        </dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>one</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

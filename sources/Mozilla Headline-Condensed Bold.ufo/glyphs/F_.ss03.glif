@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F.ss03" format="1">
+  <advance width="408"/>
+  <outline>
+    <contour>
+      <point x="49" y="0" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="170" y="307" type="line"/>
+      <point x="309" y="307" type="line"/>
+      <point x="309" y="397" type="line"/>
+      <point x="170" y="397" type="line"/>
+      <point x="170" y="592" type="line"/>
+      <point x="285" y="592" type="line"/>
+      <point x="285" y="483" type="line"/>
+      <point x="388" y="483" type="line"/>
+      <point x="388" y="690" type="line"/>
+      <point x="49" y="690" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>F.ss02</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

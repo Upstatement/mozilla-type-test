@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_j" format="1">
+  <advance width="479"/>
+  <outline>
+    <contour>
+      <point x="69" y="610" type="curve" smooth="yes"/>
+      <point x="69" y="0" type="line"/>
+      <point x="186" y="0" type="line"/>
+      <point x="186" y="596" type="line"/>
+      <point x="259" y="596" type="line"/>
+      <point x="259" y="690" type="line"/>
+      <point x="149" y="690" type="line" smooth="yes"/>
+      <point x="97" y="690"/>
+      <point x="69" y="662"/>
+    </contour>
+    <contour>
+      <point x="27" y="0" type="line"/>
+      <point x="246" y="0" type="line"/>
+      <point x="246" y="94" type="line"/>
+      <point x="27" y="94" type="line"/>
+    </contour>
+    <contour>
+      <point x="22" y="440" type="line"/>
+      <point x="259" y="440" type="line"/>
+      <point x="259" y="534" type="line"/>
+      <point x="22" y="534" type="line"/>
+    </contour>
+    <contour>
+      <point x="278" y="-132" type="line"/>
+      <point x="357" y="-132" type="line" smooth="yes"/>
+      <point x="409" y="-132"/>
+      <point x="437" y="-104"/>
+      <point x="437" y="-52" type="curve" smooth="yes"/>
+      <point x="437" y="534" type="line"/>
+      <point x="283" y="534" type="line"/>
+      <point x="283" y="440" type="line"/>
+      <point x="319" y="440" type="line"/>
+      <point x="319" y="-38" type="line"/>
+      <point x="278" y="-38" type="line"/>
+    </contour>
+    <contour>
+      <point x="314" y="578" type="line"/>
+      <point x="438" y="578" type="line"/>
+      <point x="438" y="690" type="line"/>
+      <point x="314" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="228" y="534" type="line"/>
+      <point x="228" y="440" type="line"/>
+      <point x="311" y="440" type="line"/>
+      <point x="311" y="534" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

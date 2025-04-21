@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="X" format="1">
+  <advance width="790"/>
+  <unicode hex="0058"/>
+  <outline>
+    <contour>
+      <point x="35" y="0" type="line"/>
+      <point x="232" y="0" type="line"/>
+      <point x="372" y="287" type="line"/>
+      <point x="410" y="287" type="line"/>
+      <point x="551" y="0" type="line"/>
+      <point x="755" y="0" type="line"/>
+      <point x="755" y="110" type="line"/>
+      <point x="678" y="110" type="line"/>
+      <point x="525" y="411" type="line"/>
+      <point x="524" y="327" type="line"/>
+      <point x="670" y="580" type="line"/>
+      <point x="747" y="580" type="line"/>
+      <point x="747" y="690" type="line"/>
+      <point x="550" y="690" type="line"/>
+      <point x="418" y="421" type="line"/>
+      <point x="380" y="421" type="line"/>
+      <point x="247" y="690" type="line"/>
+      <point x="43" y="690" type="line"/>
+      <point x="43" y="580" type="line"/>
+      <point x="120" y="580" type="line"/>
+      <point x="266" y="327" type="line"/>
+      <point x="265" y="411" type="line"/>
+      <point x="112" y="110" type="line"/>
+      <point x="35" y="110" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl" format="1">
+  <advance width="541"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="59" y="435" type="line"/>
+      <point x="483" y="435" type="line"/>
+      <point x="483" y="537" type="line"/>
+      <point x="391" y="537" type="line"/>
+      <point x="318" y="494" type="line"/>
+      <point x="311" y="500" type="line"/>
+      <point x="336" y="592" type="line"/>
+      <point x="336" y="690" type="line"/>
+      <point x="206" y="690" type="line"/>
+      <point x="206" y="592" type="line"/>
+      <point x="231" y="500" type="line"/>
+      <point x="224" y="494" type="line"/>
+      <point x="151" y="537" type="line"/>
+      <point x="59" y="537" type="line"/>
+    </contour>
+    <contour>
+      <point x="206" y="0" type="line"/>
+      <point x="336" y="0" type="line"/>
+      <point x="336" y="98" type="line"/>
+      <point x="311" y="190" type="line"/>
+      <point x="318" y="196" type="line"/>
+      <point x="391" y="153" type="line"/>
+      <point x="483" y="153" type="line"/>
+      <point x="483" y="255" type="line"/>
+      <point x="59" y="255" type="line"/>
+      <point x="59" y="153" type="line"/>
+      <point x="151" y="153" type="line"/>
+      <point x="224" y="196" type="line"/>
+      <point x="231" y="190" type="line"/>
+      <point x="206" y="98" type="line"/>
+    </contour>
+    <contour>
+      <point x="215" y="290" type="line"/>
+      <point x="326" y="290" type="line"/>
+      <point x="326" y="400" type="line"/>
+      <point x="215" y="400" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

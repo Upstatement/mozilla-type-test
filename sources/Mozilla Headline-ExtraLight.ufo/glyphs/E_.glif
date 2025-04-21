@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="1">
+  <advance width="606.33621"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="484" y="494" type="line"/>
+      <point x="539" y="494" type="line"/>
+      <point x="539" y="690" type="line"/>
+      <point x="17" y="690" type="line"/>
+      <point x="17" y="637" type="line"/>
+      <point x="108" y="637" type="line"/>
+      <point x="108" y="0" type="line"/>
+      <point x="543" y="0" type="line"/>
+      <point x="543" y="200" type="line"/>
+      <point x="488" y="200" type="line"/>
+      <point x="488" y="53" type="line"/>
+      <point x="172" y="53" type="line"/>
+      <point x="172" y="327" type="line"/>
+      <point x="443" y="327" type="line"/>
+      <point x="443" y="377" type="line"/>
+      <point x="172" y="377" type="line"/>
+      <point x="172" y="637" type="line"/>
+      <point x="484" y="637" type="line"/>
+    </contour>
+    <contour>
+      <point x="543" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="305" y="690" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>E</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

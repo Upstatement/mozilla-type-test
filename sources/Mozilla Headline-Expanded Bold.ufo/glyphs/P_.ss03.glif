@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="P.ss03" format="1">
+  <advance width="712"/>
+  <outline>
+    <contour>
+      <point x="81" y="0" type="line"/>
+      <point x="243" y="0" type="line"/>
+      <point x="243" y="270" type="line"/>
+      <point x="437" y="270" type="line" smooth="yes"/>
+      <point x="599" y="270"/>
+      <point x="687" y="343"/>
+      <point x="687" y="476" type="curve" smooth="yes"/>
+      <point x="687" y="615"/>
+      <point x="598" y="690"/>
+      <point x="435" y="690" type="curve" smooth="yes"/>
+      <point x="81" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="424" y="374" type="curve" smooth="yes"/>
+      <point x="243" y="374" type="line"/>
+      <point x="243" y="578" type="line"/>
+      <point x="424" y="578" type="line" smooth="yes"/>
+      <point x="490" y="578"/>
+      <point x="521" y="546"/>
+      <point x="521" y="479" type="curve" smooth="yes"/>
+      <point x="521" y="473" type="line" smooth="yes"/>
+      <point x="521" y="406"/>
+      <point x="490" y="374"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-11 14:17:34 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
